@@ -1,4 +1,4 @@
-# Analyzing Global SuperstoreSales Data
+# Analyzing Global Superstore Sales Data
 
 ## Business questions are:
 #### Count of Orders per Year
