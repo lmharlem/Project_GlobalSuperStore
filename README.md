@@ -1,4 +1,4 @@
-# Analyzing Global Superstore Sales Data
+<h1 align=center><font size = 5>Analyzing Global Superstore Sales Data</font></h1>
 
 ## Business questions are:
   #### Count of Orders per Year
